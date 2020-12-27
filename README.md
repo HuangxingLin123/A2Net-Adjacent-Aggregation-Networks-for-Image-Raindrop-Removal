@@ -28,7 +28,7 @@ Make sure the training images are in the './datasets/train/rain/' and './dataset
 Testing
 =======
 
-Download the testing dataset from [Google Drive](https://drive.google.com/drive/folders/1ps9u1KyI_W0c0hJaZ_gKWwG8hJgd7KKA).
+Download the testing dataset from [Google Drive](https://).
 
 Unzip 'test.zip' in './datasets/'.
 
