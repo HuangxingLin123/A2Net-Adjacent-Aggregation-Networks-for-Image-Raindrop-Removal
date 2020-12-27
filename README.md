@@ -15,9 +15,9 @@ Training
 
 Download the training dataset from ...
 
-Unzip'train.zip'in './datasets/'. 
+Unzip 'train.zip' in './datasets/'. 
 
-Make sure the training images are in the'./datasets/train/rain/'and ./datasets/train/clean/', respectively.
+Make sure the training images are in the './datasets/train/rain/' and './datasets/train/clean/', respectively.
 
 - Train the deraining model:
 
@@ -30,7 +30,7 @@ Testing
 
 Download the testing dataset from [Google Drive](https://drive.google.com/drive/folders/1ps9u1KyI_W0c0hJaZ_gKWwG8hJgd7KKA).
 
-Unzip'test.zip' in './datasets/'.
+Unzip 'test.zip' in './datasets/'.
 
 - Test:
 
