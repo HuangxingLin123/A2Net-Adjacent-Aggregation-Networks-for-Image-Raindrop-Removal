@@ -13,7 +13,7 @@ python3.6
 Training
 ======
 
-Download the training dataset from ...
+Download the training dataset from [Google Drive](https://drive.google.com/drive/folders/1q4t3Mk7dA8V7Pdg6Pxs8GeXhKmPKCgO-).
 
 Unzip 'train.zip' in './datasets/'. 
 
@@ -28,7 +28,7 @@ Make sure the training images are in the './datasets/train/rain/' and './dataset
 Testing
 =======
 
-Download the testing dataset from [Google Drive](https://).
+Download the testing dataset from [Google Drive](https://drive.google.com/drive/folders/1q4t3Mk7dA8V7Pdg6Pxs8GeXhKmPKCgO-).
 
 Unzip 'test.zip' in './datasets/'.
 
